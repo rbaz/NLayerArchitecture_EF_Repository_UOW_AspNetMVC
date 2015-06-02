@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="0690afb9-ebd1-4c30-85b2-dfde6284d246" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <comments>
+    <comment Id="15fc1afb-d07d-481d-ae67-4c9596e48970" name="Comment1">
+      <body>Database
+</body>
+    </comment>
+    <comment Id="02397d02-ecfe-4cb3-8fb8-d69f57435109" name="Comment2">
+      <body>
+
+
+
+
+
+
+
+
+
+
+
+                     EF Entities</body>
+    </comment>
+    <comment Id="ed9bfa67-b3d2-4805-904a-ee537e874d46" name="Comment3">
+      <body>
+D
+O
+M
+A
+I
+N
+
+L
+A
+Y
+E
+R
+</body>
+    </comment>
+    <comment Id="59d3bb4d-27aa-47dd-a1ab-25414a21f4e4" name="Comment31">
+      <body>
+
+PRÉSENTATION
+
+LAYER</body>
+    </comment>
+    <comment Id="617d22eb-0342-4a29-9ade-f05585755246" name="Comment32">
+      <body>UI
+L
+A
+Y
+E
+R</body>
+    </comment>
+  </comments>
+  <layers>
+    <layer Id="b791d02d-08ac-4dfc-8930-1724badf1300" name="JavaScript" />
+    <layer Id="d3cda104-0eb8-40ae-b6fc-7050ac027e08" name="Ajax" />
+    <layer Id="1ef70679-e63b-4450-b0a9-e9fe593f779b" name="Unit Of Work" />
+    <layer Id="0997a79f-5a69-4a0b-8fa6-31f51b0545af" name="View Models" />
+    <layer Id="3ea10db5-87b8-4ffc-984c-cfae82e0fd60" name="HTML" />
+    <layer Id="d8423ae1-96d3-41ae-927a-b3db80c7d410" name="Views" />
+    <layer Id="fe1e7ea4-8460-4d7f-b155-e75d7474a038" name="Controllers1" />
+    <layer Id="d99a6698-ea11-4669-8fd3-6dee4d087da6" name="EF Context" />
+    <layer Id="7f5b301c-0f1f-4f63-bb0d-2d33c99c6b5c" name="Repository" />
+    <layer Id="f57f4e17-fc11-4b6a-b334-7298b612aee1" name="EF DSet&lt;T&gt;" />
+    <layer Id="f2874f84-7f9b-4845-898b-58b535369a01" name="Business&#xD;&#xA;Utilities /&#xD;&#xA;Helpers&#xD;&#xA;" />
+  </layers>
+</layerModel>
